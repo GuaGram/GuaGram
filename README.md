@@ -24,7 +24,7 @@ SIGNING_KEY_STORE_PASSWORD = Z9yXDEFHJ6KRqn7oP
 ```
 
 ## Compilation Guide
-1. Clone GuaGram source code using `git clone https://github.com/GuaGram/GuaGram.git`
+1. Open the official Telegram channel of [GuaGram`a](https://t.me/GuaGram) and download the archive of the latest version.
 2. Fill out values in `API_KEYS` like [here](https://github.com/GuaGram/GuaGram/tree/main?tab=readme-ov-file#importing-api-hash-and-keys)
 3. Open the project in Android Studio. It should be opened, **not imported**
 4. You are ready to compile `GuaGram`
