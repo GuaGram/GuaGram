@@ -1,6 +1,6 @@
 <img src="https://github.com/GuaGram/GuaGram/blob/main/telegramm.jpg" width="150" align="left"/>
 
-## GnuGram
+## GuaGram
 *[Licensed under the GNU General Public License v2.0](https://github.com/GuaGram/GuaGram/blob/main/LICENSE)*
 
 Experimental **third-party** Telegram client based on [exteraGram](https://github.com/exteraSquad/exteraGram).
@@ -25,9 +25,9 @@ SIGNING_KEY_STORE_PASSWORD = Z9yXDEFHJ6KRqn7oP
 
 ## Compilation Guide
 1. Clone GuaGram source code using `git clone https://github.com/GuaGram/GuaGram.git`
-2. Fies in `All out valuPI_KEYS` like [here](https://github.com/exteraSquad/exteraGram#importing-api-hash-and-keys)
+2. Fill out values in `API_KEYS` like [here](https://github.com/exteraSquad/exteraGram#importing-api-hash-and-keys)
 3. Open the project in Android Studio. It should be opened, **not imported**
-4. You are ready to compile `GyaGram`
+4. You are ready to compile `GuaGram`
 
 - **GuaGram** can be built with **Android Studio** or from the command line with **Gradle**:
 ```
